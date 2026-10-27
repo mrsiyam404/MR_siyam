@@ -286,7 +286,7 @@ module.exports.onStart = async function ({ api, event }) {
 
     console.error("❌ Sad2 Execution Error:", error);
 
-    api.sendMessage("❌ কমান্ডটি রান করতে কোনো সমস্যা হয়েছে!", threadID, messageID);
+    api.sendMessage("😂🍫🙆😚😜😊🤔😁😘🐊💖🤔😂🤧🤧🤧😜🤔😂💨💨😚🍼🤭🤭🤩🤩😖😖💨👈😂🤧🤔😂😘🥀😃🤧🤧😂🤔🤔🤧🤧🐍🗡️🗡️🗡️🗡️🗡️ কমান্ডটি রান করতে কোনো সমস্যা হয়েছে!", threadID, messageID);
 
   }
 
